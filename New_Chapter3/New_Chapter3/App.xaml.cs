@@ -10,7 +10,7 @@ namespace New_Chapter3
         {
             InitializeComponent();
             Bootstrapper.Initialize();
-            MainPage = new MainPage();
+            MainPage = Resolver.Resolve<MainShell>();
         }
 
         protected override void OnStart()

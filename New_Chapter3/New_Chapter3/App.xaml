@@ -20,13 +20,18 @@
 
             <FontImage x:Key="NewsIcon"
                        FontFamily="{StaticResource IconFont}"
-                       Glyph="&#xf1ea;" Size="22" />            <FontImage x:Key="SettingsIcon"
+                       Glyph="&#xf1ea;" Size="22" />
+
+            <FontImage x:Key="SettingsIcon"
                        FontFamily="{StaticResource IconFont}"
                        Glyph="&#xf013;" Size="22"
-                       Color="Black" />            <FontImage x:Key="AboutIcon"
+                       Color="Black" />
+
+            <FontImage x:Key="AboutIcon"
                        FontFamily="{StaticResource IconFont}"
                        Glyph="&#xf05a;"
-                       Size="22" Color="Black" />
+                       Size="22" Color="Black" />
+
 
         </ResourceDictionary>
     </Application.Resources>
