@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace New_Chapter3
+namespace New_Chapter3.NewFolder
 {
     public class Source
     {

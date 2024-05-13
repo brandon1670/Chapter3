@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
-using New_Chapter3.Models; // Esta línea causa el error
 using Newtonsoft.Json;
-using System.Text;
+using New_Chapter3.NewFolder;
 
 namespace New_Chapter3.Services
 {

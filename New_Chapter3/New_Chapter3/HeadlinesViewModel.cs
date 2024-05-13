@@ -1,13 +1,10 @@
 ﻿using New_Chapter3.ViewModels;
-using System;
-using System.Collections.Generic;
 using Xamarin.Forms;
 using System.Web;
 using System.Windows.Input;
 using System.Threading.Tasks;
-using New_Chapter3.Models;
 using New_Chapter3.Services;
-using System.Text;
+using New_Chapter3.NewFolder;
 
 namespace New_Chapter3
 {
